@@ -9,8 +9,8 @@ semantic scholar( https://www.semanticscholar.org/ )で任意の論文の被引�
 4.Excelファイルを新しく作って先人の使い方講座をいろいろ眺める. <br>
 5.なんとなくやってみたらできた. <br>
 
-##　参考にしたサイト
+## 参考にしたサイト
 https://www.semanticscholar.org/product/api　<br>
 https://qiita.com/y-tksk/items/13bfe74748395bcff3db　<br>
 
-以上
+以上．
